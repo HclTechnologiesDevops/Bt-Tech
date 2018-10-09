@@ -1,5 +1,5 @@
 hi hello 
-welcome to git 
+welcome
 
-updating the file content 
+modifying the file content 
 
